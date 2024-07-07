@@ -18,23 +18,18 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-<div align="center">
-    [Leetcode Stats](https://leetcard.jacoblin.cool/kls028)
-</div>
+[Leetcode Stats](https://leetcard.jacoblin.cool/kls028)
 
 <br/>
 
-- 🌱 My name is niefee, I am Chinese, welcome to my GitHub home page
-- ⚡ I know HTML
-- 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
-- 💖 Love the beautiful code and photos
-- 🔥 One is never too old to learn.
+- 🌱 My name is kls028, I am Polish
+- ⚡ I know:
 
 <br/>
 
 <p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
+    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=kls028&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=kls028&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 
 <div align="center">
@@ -49,10 +44,10 @@ Here are some ideas to get you started:
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+    <img src="https://profile-counter.glitch.me/kls028/count.svg"/>
   </div> 
 </p>
 
 ------
 
-Credit: [Niefee](https://github.com/Niefee)
+Credit: [kls028](https://github.com/kls028)
