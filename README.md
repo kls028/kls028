@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🌱 My name is kls028, I am Polish
+- 🌱 My name is Piotr, I am Polish
 - ⚡ I know:
+- 
 
 <br/>
 
