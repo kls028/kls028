@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ### My tech stack 🖥️
 
-<p><img src="https://github.com/kls028/kls028/assets/66675948/0cebdfcc-bdbe-4182-b0fb-7828ba73e723" width="20" heigth="20" />  -   JavaScript</p>
-<p><img src="https://github.com/kls028/kls028/assets/66675948/507daa4e-2911-4161-a013-2fcd24fa1537" width="20" heigth="20" />  -   Node.js</p>
-<p><img src="https://github.com/kls028/kls028/assets/66675948/f374f8a8-9f94-4230-b7d3-865541602c87" width="20" heigth="20" />  -   Python</p>
-<p><img src="https://github.com/kls028/kls028/assets/66675948/18aa23d7-3e20-4bb8-adba-f7a2e12c30ce" width="20" heigth="20" />  -   MongoDB/Firebase</p>
-<p><img src="https://github.com/kls028/kls028/assets/66675948/157ba8e3-0121-4f18-afc9-d8d1b83bea92" width="20" heigth="20" />  -   React</p>
-<p><img src="https://github.com/kls028/kls028/assets/66675948/d60ef405-4563-4251-8f78-21000fffde09" width="20" heigth="20" />  -   CSS with Bootstrap, Bulma and Tailwind</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/0cebdfcc-bdbe-4182-b0fb-7828ba73e723" width="20" heigth="20" />     JavaScript</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/507daa4e-2911-4161-a013-2fcd24fa1537" width="20" heigth="20" />    Node.js</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/f374f8a8-9f94-4230-b7d3-865541602c87" width="20" heigth="20" />     Python</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/18aa23d7-3e20-4bb8-adba-f7a2e12c30ce" width="20" heigth="20" />    MongoDB/Firebase</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/157ba8e3-0121-4f18-afc9-d8d1b83bea92" width="20" heigth="20" />     React</p>
+<p><img src="https://github.com/kls028/kls028/assets/66675948/d60ef405-4563-4251-8f78-21000fffde09" width="20" heigth="20" />     CSS with Bootstrap, Bulma and Tailwind</p>
 
 
 
