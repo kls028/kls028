@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 🌱 My name is Piotr, I am Polish
-- 👨‍🎓 I am a CS student on Politechnika Gdańska
+- 👨‍🎓 I am a CS student at Politechnika Gdańska
 <br/>
 
 ### My tech stack 🖥️
