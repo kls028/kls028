@@ -31,32 +31,45 @@ Here are some ideas to get you started:
 
 ### My Tech Stack 🖥️
 
-Here are the technologies I work with:
-
 <div align="center">
-  
-![Tech Stack Collage](https://placehold.co/600x400/222/EEE?text=C%2FC%2B%2B+Python+JS+React+Node+MongoDB+PHP&font=montserrat)
 
-**Highlighted Expertise**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+✨ **Core Expertise** ✨  
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30" height="40">
+  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" height="40"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
 </div>
 
-#### Daily Technologies:
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+🚀 **Full Stack Toolkit**  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </div>
+  <div style="background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  </div>
+  <div style="background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </div>
+  <div style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  </div>
+  <div style="background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </div>
+  <div style="background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%); padding: 12px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  </div>
+</div>
+
+<br>
+
+🌈 **Visual Preview**  
+<img width="80%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&line1=JavaScript,React,Node.js,PHP&line2=MongoDB,Firebase,Python,C%2B%2B&theme=merko" alt="Tech Stack Visualization">
+
+</div>
 
 <hr/>
 
