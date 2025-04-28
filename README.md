@@ -66,11 +66,6 @@ Here are some ideas to get you started:
 
 <br>
 
-🌈 **Visual Preview**  
-<img width="80%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&line1=JavaScript,React,Node.js,PHP&line2=MongoDB,Firebase,Python,C%2B%2B&theme=merko" alt="Tech Stack Visualization">
-
-</div>
-
 <hr/>
 
 ### My LeetCode stats 📈
