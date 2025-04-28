@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-### My Tech Stack 🖥️
+### Tech Stack 🖥️
 
 <div align="center">
 
