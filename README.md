@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 Piotr Skierka, 18
-- 👨‍🎓 I am a CS freshman at Politechnika Gdańska
+- 👨‍🎓 I am a CS freshman at Politechnika Gdańska (check out my repository "pg" to find out about the projects realised during my enrollment!)
 
 
 <hr/>
