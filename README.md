@@ -101,7 +101,6 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
     <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=kls028&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=kls028&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 
 <div align="center">
