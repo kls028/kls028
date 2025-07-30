@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About me 👨‍💻
 
 
-- 🌱 Piotr Skierka, 18
+- 🌱 Piotr Skierka, 19
 - 👨‍🎓 I am a CS sophomore at Politechnika Gdańska (check out my repository "pg" to find out about the projects realised during my enrollment!)
 
 
