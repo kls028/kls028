@@ -64,9 +64,6 @@ Here are some ideas to get you started:
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
-    </td>
-    <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
     </td>
     <td align="center" style="border: none;">
