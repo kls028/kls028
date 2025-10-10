@@ -69,6 +69,9 @@ Here are some ideas to get you started:
     <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
     </td>
+    <td align="center" style="border: none;">
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
+    </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
@@ -76,9 +79,6 @@ Here are some ideas to get you started:
     </td>
     <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
   </tr>
 </table>
