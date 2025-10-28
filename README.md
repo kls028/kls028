@@ -91,31 +91,3 @@ Here are some ideas to get you started:
 ### My LeetCode stats 📈
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kls028?theme=dark&font=Mukta&ext=heatmap)
 
-<hr/>
-
-### My GitHub stats 📈
-
-<br/>
-<p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=kls028&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-</p>
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/kls028/count.svg"/>
-  </div> 
-</p>
-
-------
-
-Credit: [kls028](https://github.com/kls028)
