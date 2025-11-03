@@ -7,19 +7,6 @@
 
 <hr/>
 
-### Tech Stack 🖥️
-
-<div align="center">
-
-✨ **Core Expertise** ✨  
-<div>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30" height="40">
-  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" height="40"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
-</div>
-
-
-
 <hr/>
 
 ### 🌐 Featured Project — [gzero.io](https://gzero.io)
@@ -45,6 +32,17 @@ The goal: to create an elegant, on-brand, and visually striking way to present p
 </div>
 
 <br>
+
+### Tech Stack 🖥️
+
+<div align="center">
+
+✨ **Core Expertise** ✨  
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30" height="40">
+  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" height="40"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
+</div>
 
 🚀 **Full Stack Toolkit**  
 <table border="0" cellspacing="10" cellpadding="5" style="border-collapse: collapse; border: none;">
