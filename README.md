@@ -4,9 +4,6 @@
 - 🌱 Piotr Skierka, 19
 - 👨‍🎓 I am a CS sophomore at Politechnika Gdańska (check out my repository "pg" to find out about the projects realised during my enrollment!)
 
-
-<hr/>
-
 <hr/>
 
 ### 🌐 Featured Project — [gzero.io](https://gzero.io)
