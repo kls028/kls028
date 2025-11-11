@@ -1,8 +1,8 @@
 ### About me 👨‍💻
 
 
-- 🌱 Piotr Skierka, 19
-- 👨‍🎓 I am a CS sophomore at Politechnika Gdańska (check out my repository "pg" to find out about the projects realised during my enrollment!)
+-  Piotr Skierka, 19
+-  I am a CS sophomore at Politechnika Gdańska (check out my repository "pg" to find out about the projects realised during my enrollment!)
 
 <hr/>
 
@@ -20,10 +20,10 @@
 The goal: to create an elegant, on-brand, and visually striking way to present project information online.
 
 **✨ Highlights**
-- 🎨 Designed and developed fully from scratch  
-- ⚡ Optimized for responsiveness  
-- 🧩 Integrates smooth animations and modern web principles  
-- 🪙 Built to align with GroundZero’s brandlines
+-  Designed and developed fully from scratch  
+-  Optimized for responsiveness  
+-  Integrates smooth animations and modern web principles  
+-  Built to align with GroundZero’s brandlines
 
 **Tech Stack:** React · Tailwind CSS · Node.js
 </div>
