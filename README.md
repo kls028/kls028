@@ -11,11 +11,11 @@
 <p align="left">
   <b> Main Stack </b>
   
-[![Main stack](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,supabase,mongodb,py,fastapi,c,cpp,git,gitlab,linux,bash,docker)](https://skillicons.dev)
+[![Main stack](https://skillicons.dev/icons?i=js,ts,react,tailwind,supabase,mongodb,py,fastapi,c,cpp,git,gitlab,linux,bash,docker)](https://skillicons.dev)
   
   <b> Had contact with / learning </b>
   
-  [![Main stack](https://skillicons.dev/icons?i=rust,arduino)](https://skillicons.dev)
+  [![Main stack](https://skillicons.dev/icons?i=rust,arduino,java,cs,nginx,php)](https://skillicons.dev)
   
 </p>
 
